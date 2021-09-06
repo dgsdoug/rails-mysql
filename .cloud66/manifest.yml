@@ -1,3 +1,6 @@
 rails:
   configuration:
     ruby_version: "2.7.4"
+mysql:
+  configuration:
+    version: "5.6"
